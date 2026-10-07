@@ -23,7 +23,7 @@ int multiply(int a, int b) {
 
 
 int main(){
-  printf("Open Source SW Project1\n");
+  printf("this file for project");
 
 
 
